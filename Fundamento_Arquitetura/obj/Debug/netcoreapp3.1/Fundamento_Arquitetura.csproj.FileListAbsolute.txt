@@ -1,0 +1,12 @@
+C:\Users\Guilger\Documents\Cursos-Pratica\Arquitetura-Software\Fundamento_Arquitetura\Fundamento_Arquitetura\bin\Debug\netcoreapp3.1\Fundamento_Arquitetura.exe
+C:\Users\Guilger\Documents\Cursos-Pratica\Arquitetura-Software\Fundamento_Arquitetura\Fundamento_Arquitetura\bin\Debug\netcoreapp3.1\Fundamento_Arquitetura.deps.json
+C:\Users\Guilger\Documents\Cursos-Pratica\Arquitetura-Software\Fundamento_Arquitetura\Fundamento_Arquitetura\bin\Debug\netcoreapp3.1\Fundamento_Arquitetura.runtimeconfig.json
+C:\Users\Guilger\Documents\Cursos-Pratica\Arquitetura-Software\Fundamento_Arquitetura\Fundamento_Arquitetura\bin\Debug\netcoreapp3.1\Fundamento_Arquitetura.runtimeconfig.dev.json
+C:\Users\Guilger\Documents\Cursos-Pratica\Arquitetura-Software\Fundamento_Arquitetura\Fundamento_Arquitetura\bin\Debug\netcoreapp3.1\Fundamento_Arquitetura.dll
+C:\Users\Guilger\Documents\Cursos-Pratica\Arquitetura-Software\Fundamento_Arquitetura\Fundamento_Arquitetura\bin\Debug\netcoreapp3.1\Fundamento_Arquitetura.pdb
+C:\Users\Guilger\Documents\Cursos-Pratica\Arquitetura-Software\Fundamento_Arquitetura\Fundamento_Arquitetura\obj\Debug\netcoreapp3.1\Fundamento_Arquitetura.csprojAssemblyReference.cache
+C:\Users\Guilger\Documents\Cursos-Pratica\Arquitetura-Software\Fundamento_Arquitetura\Fundamento_Arquitetura\obj\Debug\netcoreapp3.1\Fundamento_Arquitetura.AssemblyInfoInputs.cache
+C:\Users\Guilger\Documents\Cursos-Pratica\Arquitetura-Software\Fundamento_Arquitetura\Fundamento_Arquitetura\obj\Debug\netcoreapp3.1\Fundamento_Arquitetura.AssemblyInfo.cs
+C:\Users\Guilger\Documents\Cursos-Pratica\Arquitetura-Software\Fundamento_Arquitetura\Fundamento_Arquitetura\obj\Debug\netcoreapp3.1\Fundamento_Arquitetura.dll
+C:\Users\Guilger\Documents\Cursos-Pratica\Arquitetura-Software\Fundamento_Arquitetura\Fundamento_Arquitetura\obj\Debug\netcoreapp3.1\Fundamento_Arquitetura.pdb
+C:\Users\Guilger\Documents\Cursos-Pratica\Arquitetura-Software\Fundamento_Arquitetura\Fundamento_Arquitetura\obj\Debug\netcoreapp3.1\Fundamento_Arquitetura.genruntimeconfig.cache
